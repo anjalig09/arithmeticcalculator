@@ -1,0 +1,13 @@
+C:\Users\anjali.g\source\repos\arithmeticcalc\arithmeticcalc\bin\Debug\netcoreapp3.1\arithmeticcalc.exe
+C:\Users\anjali.g\source\repos\arithmeticcalc\arithmeticcalc\bin\Debug\netcoreapp3.1\arithmeticcalc.deps.json
+C:\Users\anjali.g\source\repos\arithmeticcalc\arithmeticcalc\bin\Debug\netcoreapp3.1\arithmeticcalc.runtimeconfig.json
+C:\Users\anjali.g\source\repos\arithmeticcalc\arithmeticcalc\bin\Debug\netcoreapp3.1\arithmeticcalc.runtimeconfig.dev.json
+C:\Users\anjali.g\source\repos\arithmeticcalc\arithmeticcalc\bin\Debug\netcoreapp3.1\arithmeticcalc.dll
+C:\Users\anjali.g\source\repos\arithmeticcalc\arithmeticcalc\bin\Debug\netcoreapp3.1\arithmeticcalc.pdb
+C:\Users\anjali.g\source\repos\arithmeticcalc\arithmeticcalc\obj\Debug\netcoreapp3.1\arithmeticcalc.csproj.AssemblyReference.cache
+C:\Users\anjali.g\source\repos\arithmeticcalc\arithmeticcalc\obj\Debug\netcoreapp3.1\arithmeticcalc.AssemblyInfoInputs.cache
+C:\Users\anjali.g\source\repos\arithmeticcalc\arithmeticcalc\obj\Debug\netcoreapp3.1\arithmeticcalc.AssemblyInfo.cs
+C:\Users\anjali.g\source\repos\arithmeticcalc\arithmeticcalc\obj\Debug\netcoreapp3.1\arithmeticcalc.csproj.CoreCompileInputs.cache
+C:\Users\anjali.g\source\repos\arithmeticcalc\arithmeticcalc\obj\Debug\netcoreapp3.1\arithmeticcalc.dll
+C:\Users\anjali.g\source\repos\arithmeticcalc\arithmeticcalc\obj\Debug\netcoreapp3.1\arithmeticcalc.pdb
+C:\Users\anjali.g\source\repos\arithmeticcalc\arithmeticcalc\obj\Debug\netcoreapp3.1\arithmeticcalc.genruntimeconfig.cache
